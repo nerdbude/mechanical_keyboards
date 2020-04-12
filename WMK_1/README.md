@@ -17,7 +17,7 @@ This is the first keyboard i build (not 100% ready yet). Complete DIY.
 
 ### Wiring:
 
-![WIRING](https://github.com/nerdbude/mechanical_keyboards/blob/master/WMK_1/wiring.png)
+![WIRING](https://github.com/nerdbude/mechanical_keyboards/blob/master/WMK_1/wiring.jpg)
 
 ### Files:
 
